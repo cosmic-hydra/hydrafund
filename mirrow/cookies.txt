@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.cadro.com	TRUE	/	FALSE	1999999999	_cfuvid	Tn2Tws3pcrF7VYzphEcU_58vq15DXld.5Sp7DelPQIQ-1780326485.6664896-1.0.1.1-.P8nmvGiqyQNLE30B25iwPyj63eEqFSnIIe.C_o3vJw
-www.cadro.com	TRUE	/	FALSE	1999999999	SameSite	None
-
